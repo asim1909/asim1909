@@ -16,6 +16,7 @@ Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=asim1909&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=asim1909&label=%E7%81%AB%E5%BD%B1&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=asim1909&label=Profile%20Views&pretty=true" />
 </a>
