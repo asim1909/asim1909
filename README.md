@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏻 I'm </h1>
 
-![Banner](https://user-images.githubusercontent.com/118390636/212409403-3b3525d4-507e-424c-87fe-1781532120ec.png)
+![Banner](https://user-images.githubusercontent.com/118390636/212412342-9f9f3e1d-b6c0-4b8b-9773-3b2cc500382d.jpg)
+
 
 # 💫 About Me:
 Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX
