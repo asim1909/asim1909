@@ -1,5 +1,4 @@
-<img width="470" alt="Banner" src="https://user-images.githubusercontent.com/118390636/212406495-5e776748-a59c-451f-a0d1-25461756154c.png">
-
+![Banner](https://user-images.githubusercontent.com/118390636/212409403-3b3525d4-507e-424c-87fe-1781532120ec.png)
 
 # 💫 About Me:
 Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX
