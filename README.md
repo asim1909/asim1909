@@ -1,4 +1,3 @@
-![Hyouka4](https://user-images.githubusercontent.com/118390636/212403128-7215aefe-25f9-4feb-99d4-d7b7a97a6a31.png)
 
 
 # 💫 About Me:
