@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻 </h1>
+<h1 align="center">Hi 👋🏻 I'm </h1>
 
 ![Banner](https://user-images.githubusercontent.com/118390636/212409403-3b3525d4-507e-424c-87fe-1781532120ec.png)
 
