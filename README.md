@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏻 I'm </h1>
 
-![Banner](https://user-images.githubusercontent.com/118390636/212412342-9f9f3e1d-b6c0-4b8b-9773-3b2cc500382d.jpg)
+![Banner](https://user-images.githubusercontent.com/118390636/212413036-7883ce7f-11d9-478c-a49e-7b9079bc66bc.png)
+
 
 
 # 💫 About Me:
