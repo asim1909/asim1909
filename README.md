@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋🏻 I'm Asim Rana</h1>
+
 ![Banner](https://user-images.githubusercontent.com/118390636/212409403-3b3525d4-507e-424c-87fe-1781532120ec.png)
 
 # 💫 About Me:
@@ -13,12 +15,3 @@ Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX
 ![](https://github-readme-stats.vercel.app/api?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=asim1909&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=asim1909&label=Profile%20Views&pretty=true" />
-</a>
