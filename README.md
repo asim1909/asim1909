@@ -6,6 +6,7 @@
 
 # <h1 align="center">💫 About Me: </h1>
 <h1 align="center"> Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX </h1>
+- 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
 
 # <h1 align="center"> 🌐 Socials: </h1>
