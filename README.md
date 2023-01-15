@@ -2,12 +2,12 @@
 
 ![Banner](https://user-images.githubusercontent.com/118390636/212413036-7883ce7f-11d9-478c-a49e-7b9079bc66bc.png)
 
-
-
 # <h1 align="center">💫 About Me: </h1>
 <h1 align="center"> Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX </h1>
-- 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
+- 👨‍💻 All about me is at [My Linkedin](https://www.linkedin.com/in/asim-rana/)
+- 
+- 📧 [Reach me out!](work.asimrana@gmail.com)
 
 # <h1 align="center"> 🌐 Socials: </h1>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asim-rana/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Asim-Rana-73) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20802475)
@@ -18,3 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="asim1909" /> </p>
