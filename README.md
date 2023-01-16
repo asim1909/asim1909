@@ -21,9 +21,16 @@
 ### 📈 GitHub Activity Graph:
 [![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
 
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909" alt="asim1909" /></a>
+</p>
+
 
 ### Profile Views
-counting of visitors to this page in this section started from December 17, 2022
 
 ![](https://count.getloli.com/get/@asim1909.github.readme)
 </br>
