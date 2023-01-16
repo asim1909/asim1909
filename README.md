@@ -31,8 +31,6 @@
 </p>
 
 
-![](assets/naruto.gif)
-
 ## Thanks for visiting :heart:
 
 <p align="center"> 
