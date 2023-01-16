@@ -28,7 +28,7 @@
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="asim1909" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909&theme=gruvbox" alt="asim1909" /></a>
 
 </p>
 
