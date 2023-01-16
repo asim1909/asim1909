@@ -21,7 +21,7 @@
 ### 📈 GitHub Activity Graph:
 [![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
 
-[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjinote)](https://github.com/asim1909/github-readme-stats)
+[![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909)](https://github.com/asim1909/github-readme-stats)
 
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
