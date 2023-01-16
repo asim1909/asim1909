@@ -33,9 +33,7 @@
 </p>
 
 
-<p align="center"> 
-<a href="#"><img src=(assets/naruto2.gif) alt="asim1909" /></a>
-</p>
+![](assets/naruto2.gif)
 
 ## Thanks for visiting :heart:
 
