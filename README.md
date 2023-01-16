@@ -23,7 +23,9 @@
 
 [![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909)](https://github.com/asim1909/github-readme-stats)
 
+<p align="center"> 
 ### :trophy: Github Profile Trophy
+</p>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909" alt="asim1909" /></a>
@@ -33,7 +35,8 @@
 ### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/asim1909/count.svg">  
+<img src="https://profile-counter.glitch.me/asim1909/count.svg"> 
+</p>
 
 
-![](assets/Bottom_down.svg)
+![Bottom](assets/Bottom_down.svg)
