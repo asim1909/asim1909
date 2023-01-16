@@ -23,16 +23,14 @@
 
 [![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909)](https://github.com/asim1909/github-readme-stats)
 
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
+### :trophy: Github Profile Trophy
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909" alt="asim1909" /></a>
 </p>
 
 
-#### Thanks for visiting :heart:
+### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/asim1909/count.svg">  
