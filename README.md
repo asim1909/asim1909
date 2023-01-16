@@ -19,7 +19,5 @@
 ### 📈 GitHub Activity Graph:
 [![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="asim1909" /> </p>
