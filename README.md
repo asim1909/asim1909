@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am;+Welcome+to+My+Profile!;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -20,4 +22,10 @@
 [![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="asim1909" /> </p>
+### Profile Views
+counting of visitors to this page in this section started from December 17, 2022
+
+![](https://count.getloli.com/get/@asim1909.github.readme)
+</br>
+
+![](assets/Bottom_down.svg)
