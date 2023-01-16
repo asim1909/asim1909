@@ -24,7 +24,7 @@
 [![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909)](https://github.com/asim1909/github-readme-stats)
 
 <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
+<summary>trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
