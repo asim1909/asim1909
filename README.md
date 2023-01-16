@@ -21,7 +21,5 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Asim's github stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&layout=compact) |
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="asim1909" /> </p>
