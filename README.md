@@ -30,9 +30,11 @@
 </p>
 
 
-### Profile Views
+#### Thanks for visiting :heart:
 
-![](https://count.getloli.com/get/@asim1909.github.readme)
-</br>
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/asim1909/count.svg">  
+
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ![](assets/Bottom_down.svg)
