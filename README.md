@@ -19,5 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asim1909&label=Profile%20views&color=0e75b6&style=flat" alt="asim1909" /> </p>
-
-<div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
