@@ -32,7 +32,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909&theme=gruvbox" alt="asim1909" /></a>
 </p>
 
-! <p align="center">  [](assets/naruto2.gif) </p> 
+
+<p align="center"> 
+<a href="#"><img src=(assets/naruto2.gif) alt="asim1909" /></a>
+</p>
 
 ## Thanks for visiting :heart:
 
