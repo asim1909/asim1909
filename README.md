@@ -22,7 +22,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=juicyfresh)](https://github.com/asim1909/github-readme-activity-graph)
+[![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asim1909&theme=onestar)](https://github.com/asim1909/github-readme-activity-graph)
 
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=asim1909" />
