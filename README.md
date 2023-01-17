@@ -28,6 +28,7 @@
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=asim1909" />
 
 [![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909)](https://github.com/asim1909/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
 
