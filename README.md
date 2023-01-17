@@ -27,13 +27,13 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=asim1909" />
 
-![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=github-compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=github-compact&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909&theme=radical" alt="asim1909" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asim1909&theme=github-compact" alt="asim1909" /></a>
 </p>
 
 
