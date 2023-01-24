@@ -27,9 +27,9 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=asim1909" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=dark&hide_border=false)<br/>
 
 ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
