@@ -36,8 +36,6 @@
 </p>
 
 
-
-![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical)
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
