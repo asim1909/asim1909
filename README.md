@@ -31,6 +31,13 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=asim1909" />
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
+
+<p align="center"> 
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical" alt="asim1909" /></a>
+</p>
+
+
 
 ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical)
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -39,7 +46,7 @@
 <a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=radical&hide_border=false)" alt="asim1909" /></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=radical&hide_border=false)<br/>
+<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
 <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asim1909" /></a>
