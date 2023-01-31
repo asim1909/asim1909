@@ -8,6 +8,10 @@
 
 ![Banner](https://user-images.githubusercontent.com/118390636/212413036-7883ce7f-11d9-478c-a49e-7b9079bc66bc.png)
 
+## Stack:
+
+<img src="/assets/stack-js.gif"/>
+
 # <h1 align="center">💫 About Me: </h1>
 <h1 align="center"> Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX </h1>
 
