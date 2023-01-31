@@ -34,6 +34,11 @@
 
 ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=asim1909&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asim1909&theme=radical&hide_border=false)<br/>
+
+<p align="center"> 
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asim1909" /></a>
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
