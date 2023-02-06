@@ -64,7 +64,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asim1909" /></a>
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asim1909" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -76,9 +76,6 @@
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
 
 ## Thanks for visiting :heart:
 
