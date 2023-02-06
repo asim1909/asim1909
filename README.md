@@ -63,10 +63,8 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github.com/asim1909/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
-  </a>
+<p align="center"> 
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim1909&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asim1909" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
