@@ -30,6 +30,12 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
+<div align="center" width="150">
+  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
+</div>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 # <h1 align="center"> 🌐 Socials: </h1>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asim-rana/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Asim-Rana-73) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20802475)
@@ -77,7 +83,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Thanks for visiting :heart:
+<h2 align="center"> Thanks for visiting :heart: </h1>
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/asim1909/count.svg"> 
