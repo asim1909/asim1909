@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-<!--   my-ticker --> 
+<!-- ================ my-ticker =================== --> 
 
 
 <p align="center"> 
