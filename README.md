@@ -26,7 +26,7 @@
 <h1 align="center"> Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX </h1>
 
 - 👨‍💻 All about me is at [My Linkedin](https://www.linkedin.com/in/asim-rana/)
-- 📧 [Reach me out!](work.asimrana@gmail.com)
+- 📧 [Reach me out!](https://www.behance.net/asim-rana)
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
