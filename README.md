@@ -2,9 +2,8 @@
 <h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
 
-- 👨‍💻 All about me is at [My Website](https://mrsahil.in/)
 
-- 💬 Ask me about ``` var topics = [ "HTML", "PHP", "Python", "CSS", "ReactJs", "SQL/NoSQL"] ```
+- 💬 Ask me about ``` var topics = [ "HTML", "JavaScript", "Python", "CSS", "ReactJs", "SQL/NoSQL"] ```
 
 - 📄 Know about my work & experiences [My Resume]()
 - 📧 [Reach me out!]()
