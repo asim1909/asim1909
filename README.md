@@ -6,29 +6,15 @@
 </p>
 
 
-
-## Stack:
-
-<img src="/assets/stack-js.gif"/>
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
-
 # <h1 align="center">💫 About Me: </h1>
 <h1 align="center"> Freelancer | HTML & CSS | Python | JavaScript | Notion | UI/UX </h1>
 
 - 👨‍💻 All about me is at [My Linkedin](https://www.linkedin.com/in/asim-rana/)
 - 📧 [Reach me out!](https://www.behance.net/asim-rana)
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
 
 # <h1 align="center"> 🌐 Socials: </h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asim-rana/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Asim-Rana-73) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20802475)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asim-rana/) 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
