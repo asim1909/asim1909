@@ -1,18 +1,10 @@
-![](assets/Bottom_up.svg)
 
-<!-- ================ my-ticker =================== --> 
 
 
 <p align="center"> 
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Asim+Rana;+Welcome+to+My+Profile+!;Always+learning+new+things+!+!+!" alt="asim1909" /></a>
 </p>
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-![Banner](https://user-images.githubusercontent.com/118390636/212413036-7883ce7f-11d9-478c-a49e-7b9079bc66bc.png)
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 
 ## Stack:
@@ -93,7 +85,3 @@
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-![Bottom](assets/Bottom_down.svg)
