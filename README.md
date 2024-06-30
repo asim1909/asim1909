@@ -8,7 +8,8 @@
 - 📄 Know about my work & experiences [My Resume]()
 - 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
-<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+<img align="right" width="400" src="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhxd3dtbDlsYzRrcWtrZXh3NGY5cHRqNGVqdWQzejV2YzR5b2dzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" alt="Coding">
+
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
