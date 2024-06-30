@@ -6,7 +6,7 @@
 - 💬 Ask me about ``` var topics = [ "HTML", "JavaScript", "Python", "CSS", "ReactJs", "SQL/NoSQL"] ```
 
 - 📄 Know about my work & experiences [My Resume]()
-- 📧 [Reach me out!]()
+- 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
