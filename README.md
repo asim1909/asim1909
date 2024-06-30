@@ -8,6 +8,8 @@
 - 📄 Know about my work & experiences [My Resume]()
 - 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
+<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
 
