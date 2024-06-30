@@ -8,7 +8,6 @@
 - 📄 Know about my work & experiences [My Resume]()
 - 📧 [Reach me out!](mailto:work.asimrana@gmail.com)
 
-<img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
 
 
 ### What can I help with:question::cyclone:
